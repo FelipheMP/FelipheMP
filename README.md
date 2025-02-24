@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I'm passionate about software development and tech
 
 Here are some of the projects I've been working on:
 
-### [Show Video Controls for Firefox](https://github.com/BiP213/show-video-controls-firefox)
+### [Show Video Controls for Firefox](https://github.com/FelipheMickael/show-video-controls-firefox)
 A firefox add-on that automatically enables video controls when playing html webm videos.
 
-### [RimWorld Git Mods Installer & Updater](https://github.com/BiP213/rimworld_git_mods_installer_updater)
+### [RimWorld Git Mods Installer & Updater](https://github.com/FelipheMickael/rimworld_git_mods_installer_updater)
 Python scripts for installing/updating RimWorld mods that have public git repositories.
 
 ## Skills
