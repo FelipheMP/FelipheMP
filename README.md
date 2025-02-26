@@ -27,11 +27,11 @@ Python scripts for installing/updating RimWorld mods that have public git reposi
 
 ## GitHub Stats
 
-![BiP213's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiP213&show_icons=true&theme=radical)
+![BiP213's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipheMP&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiP213&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipheMP&layout=compact&theme=radical)
 
 ## Contact Me
 
