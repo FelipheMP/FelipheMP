@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development and tech
 
 - 🌱 I’m currently learning front/back-end technologies, game development, and game modding.
 - 👯 I’m looking to collaborate on meaningful (to me at least hehe) projects and ideas!
-- 🎮 I enjoy reading manga, watching anime, and gaming in my free time.
+- 🎮 I enjoy reading manga, watching anime, movies, series, and gaming in my free time.
 
 ## Projects
 
