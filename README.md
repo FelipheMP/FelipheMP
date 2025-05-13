@@ -12,6 +12,9 @@ Welcome to my GitHub profile! I'm passionate about software development and tech
 
 Here are some of the projects I've been working on:
 
+### [EchoSys](https://github.com/FelipheMP/EchoSys)
+EchoSys is a lightweight Python-based Telegram bot designed to monitor and manage the health of a Linux server or system.
+
 ### [Show Video Controls for Firefox](https://github.com/FelipheMP/show-video-controls-firefox)
 A firefox add-on that automatically enables video controls when playing html webm videos.
 
