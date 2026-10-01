@@ -1,48 +1,83 @@
-# Hi there, I'm Feliphe 👋
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Feliphe+👋;Software+Developer+%7C+Full-Stack+Enthusiast;Building+tools%2C+learning%2C+creating)
 
-Welcome to my GitHub profile! I'm passionate about software development and technology. Here you'll find some of the projects I've been working on, as well as contributions to open source projects.
+---
 
-## About Me
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning front/back-end technologies, game development, and game modding.
-- 👯 I’m looking to collaborate on meaningful (to me at least hehe) projects and ideas!
-- 🎮 I enjoy reading manga, watching anime, movies, series, and gaming in my free time.
+Software developer focused on building practical tools, experimenting with game development, and learning through real-world projects. I'm interested in automation, Linux system tools, and open source collaboration.
 
-## Projects
+- 🌱 Currently learning: front-end and back-end development, game development, and game modding
+- 👯 Open to collaborating on meaningful projects and ideas
+- 🎮 Enjoy reading manga, watching anime, movies, series, and gaming
+- 💡 I like turning ideas into small but useful projects
 
-Here are some of the projects I've been working on:
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📦 Featured Projects
 
 ### [EchoSys](https://github.com/FelipheMP/EchoSys)
-EchoSys is a lightweight Python-based Telegram bot designed to monitor and manage the health of a Linux server or system.
+A lightweight Python-based Telegram bot built to monitor and manage Linux server health and system status.
+
+**Tech:** Python, Telegram Bot API, Linux
 
 ### [Show Video Controls for Firefox](https://github.com/FelipheMP/show-video-controls-firefox)
-A firefox add-on that automatically enables video controls when playing html webm videos.
+A Firefox add-on that automatically enables video controls for HTML5 WebM playback.
+
+**Tech:** JavaScript, Firefox WebExtensions
 
 ### [RimWorld Git Mods Installer & Updater](https://github.com/FelipheMP/rimworld_git_mods_installer_updater)
-Python scripts for installing/updating RimWorld mods that have public git repositories.
+Python scripts for installing and updating RimWorld mods from public Git repositories.
 
-## Skills
+**Tech:** Python, Git, RimWorld
 
-- Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS
-- Databases: MySQL
-- Tools & Technologies: Git
+---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![BiP213's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipheMP&show_icons=true&theme=radical)
+<div align="center">
 
-## Top Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipheMP&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipheMP&layout=compact&theme=radical)
 
-## Contact Me
+</div>
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+---
 
-- [Email](mailto:feliphemickael@proton.me)
+## 📧 Get in Touch
 
-Thanks for visiting my profile!  
+Feel free to reach out for collaborations, project ideas, or technical discussions!
 
-### **Verba volant, scripta manent.**
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feliphemickael@proton.me)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipheMP)
+
+---
+
+<div align="center">
+
+**Verba volant, scripta manent.**  
 *Words fly, written things remain.*
+
+</div>
