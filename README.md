@@ -89,6 +89,6 @@ Have a project idea, a question about my tools, or something you'd like to build
 <div align="center">
 
 **Verba volant, scripta manent.**  
-*Spoken words fly away; written words remain.*
+*Words fly, written things remain.*
 
 </div>
