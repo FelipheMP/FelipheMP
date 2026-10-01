@@ -44,19 +44,29 @@ Software developer focused on building practical tools, experimenting with game 
 ## 📦 Featured Projects
 
 ### [EchoSys](https://github.com/FelipheMP/EchoSys)
-A lightweight Python-based Telegram bot built to monitor and manage Linux server health and system status.
+A lightweight Python-based Telegram bot built to monitor and manage Linux server health and system status. Reports on CPU usage, memory, disk, temperature, and supports remote commands like shutdown and reboot.
 
 **Tech:** Python, Telegram Bot API, Linux
 
 ### [Show Video Controls for Firefox](https://github.com/FelipheMP/show-video-controls-firefox)
-A Firefox add-on that automatically enables video controls for HTML5 WebM playback.
+A Firefox add-on that automatically enables video controls for HTML5 WebM playback. Simple, practical browser extension with a small but active user base.
 
 **Tech:** JavaScript, Firefox WebExtensions
 
 ### [RimWorld Git Mods Installer & Updater](https://github.com/FelipheMP/rimworld_git_mods_installer_updater)
-Python scripts for installing and updating RimWorld mods from public Git repositories.
+Python scripts for seamlessly installing and updating RimWorld mods from public Git repositories. Solves the repetitive task of managing mod versions.
 
 **Tech:** Python, Git, RimWorld
+
+### [BB Automation PDF Bot](https://github.com/FelipheMP/bb-automation-pdf-bot)
+An automation bot that downloads PDFs of bank statements and investment extracts from Banco do Brasil using visual recognition and simulated human interactions (clicks, typing, scrolling). Ideal for eliminating repetitive financial data collection tasks.
+
+**Tech:** Python, Browser Automation, Computer Vision
+
+### [Yana - Telegram Bot](https://github.com/FelipheMP/Yana-TelegramBot)
+A lightweight and stylish Telegram bot that fetches credit card invoice data from Google Sheets and displays it in a modern, emoji-rich format. Focused on clean UX and practical financial tracking.
+
+**Tech:** Python, Telegram Bot API, Google Sheets API
 
 ---
 
