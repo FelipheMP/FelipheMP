@@ -18,11 +18,11 @@ I learn best by building things, figuring out why they break, and improving them
 
 ## 📦 Featured Projects
 
-### [Show Video Controls for Firefox](https://github.com/FelipheMP/show-video-controls-firefox)
+### [Auto-On Video Controls](https://github.com/FelipheMP/auto-on-video-controls)
 
-A Firefox extension that enables native video controls on web pages. Includes per-site settings and options for removing overlays that get in the way of playback controls.
+A Firefox/Chromium extension that enables native video controls on web pages. Includes per-site settings and options for removing overlays that get in the way of playback controls.
 
-**Built with:** JavaScript · Firefox WebExtensions · GitHub Actions
+**Built with:** JavaScript · WebExtensions · GitHub Actions
 
 ### [EchoSys](https://github.com/FelipheMP/EchoSys)
 
