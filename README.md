@@ -20,7 +20,7 @@ I learn best by building things, figuring out why they break, and improving them
 
 ### [Auto-On Video Controls](https://github.com/FelipheMP/auto-on-video-controls)
 
-A Firefox/Chromium extension that enables native video controls on web pages. Includes per-site settings and options for removing overlays that get in the way of playback controls.
+A Firefox/Chromium extension. Automatically enables native controls on supported HTML videos so you can pause, seek, adjust the volume, or enter fullscreen when the player and platform support it.
 
 **Built with:** JavaScript · WebExtensions · GitHub Actions
 
