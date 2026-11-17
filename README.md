@@ -52,8 +52,8 @@ Everything else lives in my [repositories](https://github.com/FelipheMP?tab=repo
 
 <div align="center">
 
-[![FelipheMP's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipheMP&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/FelipheMP)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipheMP&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/FelipheMP?tab=repositories)
+[![FelipheMP's GitHub stats](./profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/FelipheMP)
+[![Top languages by commits](./profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/FelipheMP?tab=repositories)
 
 [![FelipheMP's contribution streak](https://streak-stats.demolab.com?user=FelipheMP&theme=tokyonight&hide_border=true)](https://github.com/FelipheMP)
 
