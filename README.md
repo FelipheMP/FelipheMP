@@ -35,7 +35,8 @@ I'm a software developer who enjoys building practical tools: browser extensions
 | [**Auto-On Video Controls**](https://github.com/FelipheMP/auto-on-video-controls) | Firefox/Chromium extension that turns on the browser's native playback controls for HTML5 videos on the sites you allow. | JavaScript · WebExtensions · GitHub Actions |
 | [**my-playback-pace**](https://github.com/FelipheMP/my-playback-pace) | Browser extension that applies your preferred playback speed to YouTube and other supported video and audio. Set it once, choose where it applies. | JavaScript · WebExtensions |
 | [**WildAnimalEmigration**](https://github.com/FelipheMP/WildAnimalEmigration) | RimWorld 1.7 mod that keeps wild animal populations in check: surplus animals leave the map based on configurable species limits. | C# |
-| [**CleanBeforeCooking**](https://github.com/FelipheMP/CleanBeforeCooking) | RimWorld 1.7 mod that lets colonists clean nearby filth before cooking indoors, with a configurable radius and target limit. | C# |
+| [**CleanBeforeCooking**](https://github.com/FelipheMP/CleanBeforeCooking) | RimWorld 1.7 mod that lets colonists clean nearby filth before cooking indoors, with a configurable radius and target limit. | C# · Harmony |
+| [**SendChildrenAway**](https://github.com/FelipheMP/SendChildrenAway) | RimWorld 1.7 mod (Biotech) that lets children and babies join visiting trader factions through Gift mode, with configurable mood effects for parents and colonists. | C# · Harmony |
 | [**EchoSys**](https://github.com/FelipheMP/EchoSys) | Telegram bot to check Linux system status (CPU, memory, disk, temperature) and run remote commands like shutdown and reboot. | Python · Telegram Bot API |
 | [**Yana**](https://github.com/FelipheMP/Yana-TelegramBot) | Telegram bot that reads credit card bill data from Google Sheets and shows it in clean, formatted messages. | Python · Telegram Bot API · Google Sheets|
 
